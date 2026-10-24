@@ -1,0 +1,23 @@
+{
+ "n_theta": 305,
+ "max_abs_diff_qsharp_vs_numpy": 1.0550671447617788e-11,
+ "max_abs_diff_qiskit_vs_numpy": 0.0,
+ "max_abs_diff_qiskit_vs_qsharp": 1.0550671447617788e-11,
+ "qsharp_ms_per_call": 0.4661738872528076,
+ "qsharp_runtime": "qsharp ",
+ "loss_traj_maxdiff_qsharp_vs_numpy": 4.440892098500626e-16,
+ "loss_traj_maxdiff_qiskit_vs_numpy": 0.0,
+ "loss_traj_maxdiff_qiskit_vs_qsharp": 4.440892098500626e-16,
+ "loss_traj_maxdiff_qiskit_burn8_vs_qsharp": 0.7639127785708084,
+ "init_weights_differ_when_burn8": true,
+ "loss_qsharp": [
+  1.2280482506635055,
+  1.1837548299807625,
+  1.141472423864171
+ ],
+ "loss_qiskit_burn8": [
+  1.991961029234314,
+  1.8866571821734275,
+  1.7824402942184514
+ ]
+}
